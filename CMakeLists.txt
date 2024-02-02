@@ -5,6 +5,6 @@ set(CMAKE_CXX_STANDARD 20)
 
 set(CMAKE_CXX_FLAGS "-Wall -Wpedantic -Wextra")
 
-configure_file(alessandro_dondi/input.txt input.txt COPYONLY)
+#configure_file(saqlain_khalid/citta.txt citta.txt COPYONLY)
 
-add_executable(as2324_3CIN_lab1 alessandro_dondi/alessandro_dondi.cpp)
+add_executable(as2324_3CIN_lab1 alessandro_montanari/alessandro_montanari.cpp)
